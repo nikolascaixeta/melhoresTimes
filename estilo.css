@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Img/fundogeral.webp);
+      background-size: cover;
+     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    cursor: url(Img/Manchester\ City\ FC.cur),auto;
+
+}
+.conteudo-principal{
+  margin: 20px;
+}
+.meu-time{
+    margin: 24px;
+}
+p{
+    font-size: 24px;
+    color: white;
+      background-color: rgba(0, 0, 0, 0.274);
+}
+h1{
+    font-size: 40px;
+    color: aqua;
+}
+h3{
+    font-size: 32px;
+    color: aquamarine;
+}
+h2{
+    font-size: 36px;
+    color: cyan;
+}
+.imgnormal{
+    height: auto;
+    width: 1000px;
+   
+}
+.imgescudo{
+    
+}
+.conteudo-lista{
+    color: whitesmoke;
+    font-size: 24px;
+      background-color: rgba(0, 0, 0, 0.274);
+    
+}
