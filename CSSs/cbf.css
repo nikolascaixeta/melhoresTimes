@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../Img/fundogeral.webp);
+    background-image: url(../Imgeuro/planofundo2.webp);
       background-size: cover;
      background-repeat: no-repeat;
     background-position: center;
@@ -40,6 +40,11 @@ h2{
     width: 1000px;
    
 }
+.imgescudo2{
+   height: auto;
+   width: 100px;
+
+}
 .imgescudo{
     height: auto;
     width: 24px;
@@ -52,4 +57,20 @@ h2{
 a{
     font-size: 24px;
     color: rgb(20, 233, 204);
+}
+table{
+    border: 5px double red;
+  border-collapse: collapse; /* Mescla as bordas */
+  width: 100%;
+    
+}
+td, th,tr {
+  border-left: 5px solid rgb(255, 0, 0); /* Adiciona a borda à esquerda de cada célula */
+  
+}
+th{
+    color: cornflowerblue;
+}
+.dadoslista{
+    color: rgb(206, 28, 241);
 }
