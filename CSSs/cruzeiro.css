@@ -1,11 +1,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(Imgeuro/planofundo2.webp);
+    background-image: url(../Imgcbf/planocruzeiro.jpg);
       background-size: cover;
      background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    cursor: url(Img/Manchester\ City\ FC.cur),auto;
 
 }
 .conteudo-principal{
@@ -26,20 +25,25 @@ p{
 }
 h1{
     font-size: 40px;
-    color: aqua;
+    color: rgb(4, 2, 139);
 }
 h3{
     font-size: 32px;
-    color: aquamarine;
+    color: rgb(0, 238, 255);
 }
 h2{
     font-size: 36px;
-    color: cyan;
+    color: rgb(0, 195, 255);
 }
 .imgnormal{
     height: auto;
     width: 1000px;
    
+}
+.imgescudo2{
+   height: auto;
+   width: 100px;
+
 }
 .imgescudo{
     height: auto;
@@ -52,14 +56,21 @@ h2{
 }
 a{
     font-size: 24px;
-    color: rgb(20, 233, 204);
+    color: rgb(219, 233, 20);
 }
-#copabrasil{
-    color: chartreuse;
+table{
+    border: 5px double rgb(0, 97, 13);
+  border-collapse: collapse; /* Mescla as bordas */
+  width: 100%;
+    
 }
-footer{
-    font-size: 36px;
+td, th,tr {
+  border-left: 5px solid rgb(0, 80, 13); /* Adiciona a borda à esquerda de cada célula */
+  
 }
-#eu{
-    font-size: 36px;
+th{
+    color: rgb(100, 237, 237);
+}
+.dadoslista{
+    color: rgb(241, 124, 28);
 }

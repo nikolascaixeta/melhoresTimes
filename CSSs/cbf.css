@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../Imgeuro/planofundo2.webp);
+    background-image: url(../Imgcbf/planodefundo3.jpg);
       background-size: cover;
      background-repeat: no-repeat;
     background-position: center;
@@ -25,15 +25,15 @@ p{
 }
 h1{
     font-size: 40px;
-    color: aqua;
+    color: rgb(0, 255, 0);
 }
 h3{
     font-size: 32px;
-    color: aquamarine;
+    color: rgb(255, 251, 0);
 }
 h2{
     font-size: 36px;
-    color: cyan;
+    color: rgb(251, 255, 0);
 }
 .imgnormal{
     height: auto;
@@ -56,21 +56,21 @@ h2{
 }
 a{
     font-size: 24px;
-    color: rgb(20, 233, 204);
+    color: rgb(219, 233, 20);
 }
 table{
-    border: 5px double red;
+    border: 5px double rgb(0, 97, 13);
   border-collapse: collapse; /* Mescla as bordas */
   width: 100%;
     
 }
 td, th,tr {
-  border-left: 5px solid rgb(255, 0, 0); /* Adiciona a borda à esquerda de cada célula */
+  border-left: 5px solid rgb(0, 80, 13); /* Adiciona a borda à esquerda de cada célula */
   
 }
 th{
-    color: cornflowerblue;
+    color: rgb(100, 237, 237);
 }
 .dadoslista{
-    color: rgb(206, 28, 241);
+    color: rgb(241, 124, 28);
 }
